@@ -52,9 +52,10 @@ npm run dev  # or yarn dev
 
 ## Usage
 1. Navigate to **`http://localhost:3000/dashboard`**.
-2. View, filter, and update order statuses.
-3. Click on the **eye icon** to see detailed order information.
-4. Use the **dropdown** to change order statuses.
+2. use email: **areeba@gmail.com**        password: **areebaak**
+3. View, filter, and update order statuses.
+4. Click on the **eye icon** to see detailed order information.
+5. Use the **dropdown** to change order statuses.
 
 
 
