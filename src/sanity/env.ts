@@ -17,6 +17,8 @@ export const projectId = assertValue(
 // )
 
 export const token = "skyFcNwhPrOA1RRfrfCt0xaZll2Cd9TxvocEdEUSJ06ek3p9WHCcvJaMHarXSK8TGEHVUinkfNOwglLcujPMfckC8gNEtHC1s5joATBsRxtpX8TcxP2Qj7WLs85dBS8hdFNf9tHmrXWltCbuRADFzCihUf2k4hV1PTDq101yiQHjjMzik1AU"
+console.log("Sanity Token:" , token)
+
 function assertValue<T>(v: T | undefined, errorMessage: string): T {
   if (v === undefined) {
     throw new Error(errorMessage)
